@@ -3,7 +3,7 @@ body, html {
   padding: 0;
   height: 100%;
   font-family: 'Segoe UI', sans-serif;
-  background: url('images/cat2.png') no-repeat center center fixed;
+  background: url('cat2.png') no-repeat center center fixed;
 }
 
 .home {
