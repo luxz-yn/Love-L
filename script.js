@@ -82,4 +82,3 @@ window.addEventListener("load", () => {
     photo.style.display = "block";
   }
 });
-
