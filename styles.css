@@ -52,7 +52,7 @@ body, html {
   text-align: center;
   z-index: 999;
   overflow-y: auto;
-  font-family: fantasy, sans-serif;
+  /*font-family: fantasy, sans-serif;*/
 }
 
 .slide.active {
